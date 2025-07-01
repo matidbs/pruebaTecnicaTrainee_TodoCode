@@ -1,4 +1,5 @@
-﻿Suponer un sistema de reserva de asientos para un anfiteatro. El teatro cuenta con 10 filas de I0 asientos cada una. Se necesita desarrollar un sistema (sin uso de bases de datos, únicamente manejo de datos de forma lógica) que permita llevar a cabo lo siguiente:
+Link al video: https://www.youtube.com/watch?v=npfzSC8B3aM
+ Suponer un sistema de reserva de asientos para un anfiteatro. El teatro cuenta con 10 filas de I0 asientos cada una. Se necesita desarrollar un sistema (sin uso de bases de datos, únicamente manejo de datos de forma lógica) que permita llevar a cabo lo siguiente:
 1. Cargar el "mapa" de las filas u asientos. Indicando con una "X" los asientos ocupados y con una "L" los asientos libres. Al iniciar el programa, todos los asientos deben estar libres.
 2. Manejar la reserva de asientos contemplando que un asiento SOLO PUEDE SER RESERVADO si se encuentra en estado "L", en caso de que esté en estado "X", se deberá permitir al comprador elegir otro asiento. Si se encuentra en estado "L", deberá pasar automáticamente al estado "X"
 3. Para finalizar el programa se deberá ingresar un valor en particular. Contemplar que no existe una cantidad exacta de veces que el programa se pueda ejecutar.
