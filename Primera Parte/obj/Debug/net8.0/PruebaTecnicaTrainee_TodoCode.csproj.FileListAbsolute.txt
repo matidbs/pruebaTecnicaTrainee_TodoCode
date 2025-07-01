@@ -1,0 +1,14 @@
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\bin\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.exe
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\bin\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.deps.json
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\bin\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.runtimeconfig.json
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\bin\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.dll
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\bin\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.pdb
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\obj\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\obj\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.AssemblyInfoInputs.cache
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\obj\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.AssemblyInfo.cs
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\obj\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.csproj.CoreCompileInputs.cache
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\obj\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.dll
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\obj\Debug\net8.0\refint\PruebaTecnicaTrainee_TodoCode.dll
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\obj\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.pdb
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\obj\Debug\net8.0\PruebaTecnicaTrainee_TodoCode.genruntimeconfig.cache
+E:\Visual Studio\PruebaTecnicaTrainee_TodoCode\obj\Debug\net8.0\ref\PruebaTecnicaTrainee_TodoCode.dll
