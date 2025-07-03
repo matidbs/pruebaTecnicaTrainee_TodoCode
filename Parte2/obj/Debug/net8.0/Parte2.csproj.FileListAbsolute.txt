@@ -1,0 +1,15 @@
+E:\Visual Studio\PrTrainee\Parte2\bin\Debug\net8.0\Parte2.exe
+E:\Visual Studio\PrTrainee\Parte2\bin\Debug\net8.0\Parte2.deps.json
+E:\Visual Studio\PrTrainee\Parte2\bin\Debug\net8.0\Parte2.runtimeconfig.json
+E:\Visual Studio\PrTrainee\Parte2\bin\Debug\net8.0\Parte2.dll
+E:\Visual Studio\PrTrainee\Parte2\bin\Debug\net8.0\Parte2.pdb
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\Parte2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\Parte2.AssemblyInfoInputs.cache
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\Parte2.AssemblyInfo.cs
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\Parte2.csproj.CoreCompileInputs.cache
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\Parte2.sourcelink.json
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\Parte2.dll
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\refint\Parte2.dll
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\Parte2.pdb
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\Parte2.genruntimeconfig.cache
+E:\Visual Studio\PrTrainee\Parte2\obj\Debug\net8.0\ref\Parte2.dll
